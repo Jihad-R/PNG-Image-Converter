@@ -4,9 +4,9 @@ This program basically converts images to PNG using the Pillow Pyhton module
 # Features
 1. Convert Images to PNG
 2. Add filters to images  
-  * Greyscale 
-  * Sepia 
-  * Invert
+ * Greyscale 
+ * Sepia 
+ * Invert
 
 # Tools
 
