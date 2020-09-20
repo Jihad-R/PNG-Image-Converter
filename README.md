@@ -1,7 +1,14 @@
 # PNG-Image-Converter
 This program basically converts images to PNG using the Pillow Pyhton module 
 
-#Tools
+# Features
+1. Convert Images to PNG
+2. Add filters to images  
+  1. Greyscale 
+  2. Sepia 
+  3. Invert
+
+# Tools
 
 * #### os
 
@@ -9,4 +16,10 @@ This program basically converts images to PNG using the Pillow Pyhton module
   
   >This module provides a portable way of using operating system dependent functionality.
 
-* ##### PIL 
+* ##### Pillow
+  This module was used to open, manipulate, and save images. Read more about Pillow [here.](https://pillow.readthedocs.io/en/stable/)
+  
+  >Pillow is the friendly PIL fork by Alex Clark and Contributors. PIL is the Python Imaging Library by Fredrik Lundh and Contributors.
+
+
+  
